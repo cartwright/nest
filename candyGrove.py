@@ -37,3 +37,6 @@ import os, re
 
 os.makedirs('/home/jeremy/wiggly', mode=755, exist_ok=False)
 re.search('^M?M?M?$', 'MMM')
+
+
+#here is a test to see if git is working
