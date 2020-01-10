@@ -35,4 +35,4 @@
 import re
 
 phonePattern = re.compile(r'(\d{3})\D*(\d{3})\D*(\d{4})\D*(\d*)$')
-print(phonePattern.search('815 543 1234').groups())
+print(phonePattern.search('815 555 1212').groups())
